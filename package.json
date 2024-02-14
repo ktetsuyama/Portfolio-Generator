@@ -1,0 +1,16 @@
+{
+	"name": "09-portfolio-generator",
+	"version": "1.0.0",
+	"description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^9.2.14"
+	}
+}
